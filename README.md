@@ -4,7 +4,7 @@ Python-based script designed to streamline the character development process for
 
 ## Usage
 
-Simply run the script, it will generate a comprehensive list of character development questions. These questions serve as a valuable resource for crafting detailed and multifaceted RPG characters.
+Simply run the executable file, it will generate a comprehensive list of character development questions. These questions serve as a valuable resource for crafting detailed and multifaceted RPG characters.
 
 ## Features
 
