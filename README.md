@@ -19,8 +19,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Credits
 
 I have used questions from two sites to give you an example:
--https://www.dndspeak.com/2019/03/05/100-warm-up-roleplaying-questions-for-players/
--https://slyflourish.com/campfire_talk.html
+
+- https://www.dndspeak.com/2019/03/05/100-warm-up-roleplaying-questions-for-players/
+- https://slyflourish.com/campfire_talk.html
 
 ## License
 
